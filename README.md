@@ -1,0 +1,2 @@
+# com.litonstudio.baselib
+LitonStudioLib
