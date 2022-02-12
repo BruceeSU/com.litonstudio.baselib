@@ -1,11 +1,9 @@
 {
-  "name": "com.litonsudio.baselib",
-  "displayName":"Liton Sutio Base Lib"
-  "version": "1.0.0",
-  "description": "unity开发基础库",
-  "keywords": [
-	"baselib"
-  ],
-  "author": "BruceeSU",
-  "dependencies":{}
+	"name": "com.litonstudio.baselib",
+	"displayName": "LitonStudio Base Lib",
+	"description": "基础类库",
+	"version": "2.0.0",
+	"unity": "2019.4.13",
+	"license": "MIT",
+	"dependencies": {}
 }
